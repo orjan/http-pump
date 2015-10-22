@@ -1,0 +1,15 @@
+#Visual Studio
+*.user
+*.suo
+UpgradeLog.*
+_UpgradeReport_Files
+[Bb]in
+[Oo]bj
+.tools
+.vs
+
+# Package folders
+backend-configuration-folder
+build
+packages
+
